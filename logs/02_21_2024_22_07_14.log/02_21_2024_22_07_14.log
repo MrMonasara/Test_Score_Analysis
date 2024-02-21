@@ -1,0 +1,3 @@
+[ 2024-02-21 22:07:30,714 ] 24 root - INFO -Entered the data ingestion mthod or component
+[ 2024-02-21 22:07:30,763 ] 27 root - INFO -Data loaded successfully
+[ 2024-02-21 22:07:30,808 ] 32 root - INFO -Train Test Split initialized
