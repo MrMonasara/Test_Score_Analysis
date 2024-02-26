@@ -1,0 +1,6 @@
+[ 2024-02-26 22:07:01,221 ] 28 root - INFO -Entered the data ingestion mthod or component
+[ 2024-02-26 22:07:01,285 ] 31 root - INFO -Data loaded successfully
+[ 2024-02-26 22:07:01,339 ] 36 root - INFO -Train Test Split initialized
+[ 2024-02-26 22:07:01,447 ] 42 root - INFO -Inmgestion of the data iss completed
+[ 2024-02-26 22:07:01,483 ] 69 root - INFO -Read Train and test data completed
+[ 2024-02-26 22:07:01,483 ] 70 root - INFO -Obtaining preprocessing object

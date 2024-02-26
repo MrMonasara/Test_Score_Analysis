@@ -1,0 +1,8 @@
+[ 2024-02-26 22:19:10,095 ] 28 root - INFO -Entered the data ingestion mthod or component
+[ 2024-02-26 22:19:10,158 ] 31 root - INFO -Data loaded successfully
+[ 2024-02-26 22:19:10,177 ] 36 root - INFO -Train Test Split initialized
+[ 2024-02-26 22:19:10,286 ] 42 root - INFO -Inmgestion of the data iss completed
+[ 2024-02-26 22:19:10,304 ] 69 root - INFO -Read Train and test data completed
+[ 2024-02-26 22:19:10,304 ] 70 root - INFO -Obtaining preprocessing object
+[ 2024-02-26 22:19:10,304 ] 47 root - INFO -Numerical columns standard scaling completed
+[ 2024-02-26 22:19:10,305 ] 49 root - INFO -Categorical columns encoding completed
